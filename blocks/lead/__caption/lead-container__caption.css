@@ -1,0 +1,10 @@
+.lead-container__caption{
+    color: #FFF;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-top: 8px;
+    align-self: start;
+}

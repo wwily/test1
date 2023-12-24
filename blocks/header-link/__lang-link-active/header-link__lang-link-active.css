@@ -1,0 +1,8 @@
+.header-link__lang-link-active{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    padding-right: 18px;
+    text-decoration-line: underline;
+}

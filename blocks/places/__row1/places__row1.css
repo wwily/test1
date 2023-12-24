@@ -1,0 +1,6 @@
+.places__row1{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0 40px;
+    margin-top: 80px;
+}
